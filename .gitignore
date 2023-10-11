@@ -15,3 +15,7 @@ source/model/__pycache__
 # Keep model/logs empty
 source/model/logs/*
 !source/model/logs/.gitignore
+
+# Keep model/logs/Model_Logs empty
+/source/model/logs/Model_Logs/*
+!/source/model/logs/Model_Logs/.gitignore
