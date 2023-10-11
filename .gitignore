@@ -1,0 +1,10 @@
+# OS Files
+.DS_Store
+*.swp
+Thumbs.db
+
+# Prevent files within dataset folder unless there're .gitignore 
+source/dataset/*
+!source/dataset/raw/.gitignore
+!source/dataset/processed/.gitignore
+!source/dataset/preprocessing.py
