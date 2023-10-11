@@ -8,3 +8,10 @@ source/dataset/*
 !source/dataset/raw/.gitignore
 !source/dataset/processed/.gitignore
 !source/dataset/preprocessing.py
+
+# Remove __pycache__ in model folder
+source/model/__pycache__
+
+# Keep model/logs empty
+source/model/logs/*
+!source/model/logs/.gitignore

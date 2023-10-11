@@ -1,0 +1,12 @@
+{
+    "num_layers_df": 4,
+    "num_layers_di": 4,
+    "embedding_dim": 256,
+    "alpha": 0.001,
+    "fusion_type": "concat",
+    "batch_size": 512,
+    "epochs": 50,
+    "pairwise_loss_type": "bpr_max",
+    "regularization": "None",
+    "reg_rate": 0.5
+}
