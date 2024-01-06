@@ -3,44 +3,9 @@
 Joint-Neural Collaborative Filtering for Recommender Systems
 
 # Collaborators
-<!DOCTYPE html>
-<html>
-<head>
-  <title>GitHub Profile Link</title>
-  <style>
-    .github-profile {
-      display: inline-block;
-      text-decoration: none;
-      color: #000;
-      font-family: Arial, sans-serif;
-      font-size: 16px;
-      padding: 2px 5px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      background-color: #f5f5f5;
-      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-      transition: box-shadow 0.2s ease-in-out;
-    }
-    .github-profile:hover {
-      box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
-    }
-    .github-profile img {
-      vertical-align: middle;
-      margin-right: 2px;
-      width: 50px;
-      height: 50px;
-      border-radius: 10%;
-      overflow: hidden;
-    }
-  </style>
-</head>
-<body>
-<a href="https://github.com/KeananMilton" class="github-profile">
-  <img src="https://avatars.githubusercontent.com/KeananMilton" alt="GitHub">
-  Keanan Milton 
-</a>
-</body>
-</html>
+[<img src="https://avatars.githubusercontent.com/KeananMilton" alt="Keanan Milton" width="50" height="50">](https://github.com/KeananMilton)
+
+<small>Keanan Milton</small>
 
 # Dataset
 
