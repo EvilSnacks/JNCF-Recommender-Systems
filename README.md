@@ -2,6 +2,45 @@
 
 Joint-Neural Collaborative Filtering for Recommender Systems
 
+# Collaborators
+<html>
+<head>
+  <title>GitHub Profile Link</title>
+  <style>
+    .github-profile {
+      display: inline-block;
+      text-decoration: none;
+      color: #000;
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      padding: 2px 5px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      background-color: #f5f5f5;
+      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+      transition: box-shadow 0.2s ease-in-out;
+    }
+    .github-profile:hover {
+      box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+    }
+    .github-profile img {
+      vertical-align: middle;
+      margin-right: 2px;
+      width: 50px;
+      height: 50px;
+      border-radius: 10%;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+<a href="https://github.com/KeananMilton" class="github-profile">
+  <img src="https://avatars.githubusercontent.com/KeananMilton" alt="GitHub">
+  Keanan Milton 
+</a>
+</body>
+</html>
+
 # Dataset
 
 We used the dataset of **MovieLens 1M** movie ratings from 6000 users on 4000 movies. Released in 2003.Download the **ml-1m.zip** file from the link below. After uncompressing the file please drag the 3 files **movies.dat**, **users.dat**, and **ratings.dat** into the **dataset/raw** folder.
