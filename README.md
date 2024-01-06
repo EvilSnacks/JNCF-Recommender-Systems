@@ -3,6 +3,7 @@
 Joint-Neural Collaborative Filtering for Recommender Systems
 
 # Collaborators
+<!DOCTYPE html>
 <html>
 <head>
   <title>GitHub Profile Link</title>
